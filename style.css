@@ -1,0 +1,30 @@
+body{
+	background-color: #20BD9C;
+}
+.detail{
+	background-color: #11C684
+}
+.searchh {
+    border-radius: 27px 8px 15px 4px;
+    background: #dde4dab8;
+    border-color: white;
+    border-right-style: initial;
+    height: 32px;
+    width: 236px;
+    padding-left: 24px;
+    padding-right: 11px;
+}
+.button {
+    background-color: red;
+    height: 19px;
+    width: 50px;
+    margin-top: 20px;
+    font-family: "lato";
+    padding: 10px 18px 11px 22px;
+    border-radius: 27px;
+}
+
+.fetchit{
+	color: white;
+	text-decoration: none; 
+} 
